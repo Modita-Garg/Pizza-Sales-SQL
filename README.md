@@ -27,4 +27,4 @@ EDA involved exploring the sales data to answer the below questions:-
 
 ## Report
 
-The final report is presented in 'Pizza Sales Report.pdf'.
+The final report is presented in [Pizza Sales Report.pdf](https://github.com/Modita-Garg/Pizza-Sales-SQL/blob/main/Pizza%20Sales%20Report.pdf).
